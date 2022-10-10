@@ -1,0 +1,19 @@
+(i). Single inheritance: When child class is derived from only one parent class. 
+     This is called single inheritance.
+
+(ii) Multiple Inheritance: When child class is derived or inherited from the more than one parent classes.
+     This is called multiple inheritance.
+     In multiple inheritance, we have two parent classes/base classes and one child class that inherits both parent classes properties.
+
+(iii) Multilevel Inheritance: In multilevel inheritance, we have one parent class and child class that is derived or inherited from that parent class.
+      We have a grand-child class that is derived from the child class. See the below-given flow diagram to understand more clearly.
+
+(iv) Hierarchical inheritance: When we derive or inherit more than one child class from one(same) parent class.
+     Then this type of inheritance is called hierarchical inheritance.
+
+(v) Hybrid Inheritance: Hybrid inheritance satisfies more than one form of inheritance
+    i.e. It may be consists of all types of inheritance that we have done above. 
+    It is not wrong if we say Hybrid Inheritance is the combinations of simple, multiple, multilevel and hierarchical inheritance. 
+    This type of inheritance is very helpful if we want to use concepts of inheritance without any limitations according to our requirements.
+
+ Note: There is no sequence in Hybrid inheritance that which class will inherit which particular class. You can use it according to your requirements.

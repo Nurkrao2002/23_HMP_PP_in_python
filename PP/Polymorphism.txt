@@ -1,0 +1,11 @@
+Polymorphism:-
+Poly+morphos --> many + forms.
+If something exists in various forms, it is called polymorphism. 
+If an operator or method performs various tasks, it is called polymorphism.
+
+Ex:
+
+Duck Typing:calling method on any object without knowing the type(class) of the object.
+Operator Overloading: same operator performing more than one task.
+Method Overloading: same method performing more than one task.
+Method Overriding: executing only sub class method in the place of super class method.

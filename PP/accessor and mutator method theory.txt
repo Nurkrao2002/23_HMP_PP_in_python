@@ -1,0 +1,31 @@
+Types of methods
+
+Notes:
+1) A variable declared inside the class is called as class variable
+2) A variable declared inside the constructor ( __init__) is called
+    as instance variable.
+
+
+Classification of methods:
+
+Methods can be classified into 3 types
+1) instance methods ---> (i) accessor methods  (ii) mutator methods
+2) class methods
+3) static methods
+
+instance method: It will act on instance variables
+accessor methods: They read the instance variables. They do not modify.
+They are used with the help of getter() method. --> get method
+mutator methods: They not only read but can also modify the instance variables.
+ They can be used with the help of setter() method. --> set method
+
+
+
+
+
+
+
+
+
+
+
